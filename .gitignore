@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.aws/
+config.json
+*config.json
+!config.example.json
+*.xlsx
+*.xls
+*.csv
+*.qs
+*mapping*.json
+*.log
